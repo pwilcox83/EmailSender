@@ -2,12 +2,12 @@
 /shelf/
 /workspace.xml
 # Rider ignored files
-/contentModel.xml
-/.idea.EmailDispatcher.iml
-/projectSettingsUpdater.xml
 /modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.EmailDispatcherApi.iml
 # Datasource local storage ignored files
-/../../../../../../../../../:\Users\munki\RiderProjects\EmailSender\EmailDispatcher\.idea\.idea.EmailDispatcher\.idea/dataSources/
+/../../../../../../../../../:\Users\munki\RiderProjects\EmailSender\EmailDispatcherApi\.idea\.idea.EmailDispatcherApi\.idea/dataSources/
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/

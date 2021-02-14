@@ -1,6 +1,6 @@
 using System;
 
-namespace EmailDispatcher
+namespace EmailDispatcherApi
 {
     public class WeatherForecast
     {
