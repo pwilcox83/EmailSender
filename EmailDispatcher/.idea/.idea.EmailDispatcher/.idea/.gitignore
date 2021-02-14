@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/.idea.EmailDispatcher.iml
+/projectSettingsUpdater.xml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\munki\RiderProjects\EmailSender\EmailDispatcher\.idea\.idea.EmailDispatcher\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
