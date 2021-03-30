@@ -6,5 +6,6 @@ namespace EmailDispatcherApi.Services.Interfaces
     public interface IEmailService
     {
         public IEnumerable<Email> GetEmails();
+        bool CreateEmail(Email email);
     }
 }
